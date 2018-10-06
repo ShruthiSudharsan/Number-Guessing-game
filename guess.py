@@ -1,5 +1,4 @@
-# Random Number Guessing Game by Shruthi Sudharsan- a rockstar coding student
-# at theCoderSchool in Flower Mound, TX
+# Random Number Guessing Game by Shruthi Sudharsan
 
 import random
 
